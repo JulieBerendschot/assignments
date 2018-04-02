@@ -1,4 +1,4 @@
 # assignments
 this repository contains my assignments
 
-[week 2](../blob/master/assignment2.ipynb)
+[week 2](assignment2.ipynb)
