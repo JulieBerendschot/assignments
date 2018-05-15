@@ -9,4 +9,4 @@ this repository contains my assignments
 
 [assignment 5](Graded_assignment1.ipynb)
 
-[assignment 6](Graded_assignment2.ipynb)
+[assignment 6](Graded_assignment_2.ipynb)
