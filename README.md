@@ -10,3 +10,5 @@ this repository contains my assignments
 [assignment 5](Graded_assignment1.ipynb)
 
 [assignment 6](Graded_assignment_2.ipynb)
+
+[Final assignment R](https://github.com/JulieBerendschot/assignments/blob/master/Exam_student%20R%20correct!.ipynb)
